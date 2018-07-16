@@ -1,0 +1,1 @@
+console.log("Web3.js lib examples to interact with Smart Contract");
